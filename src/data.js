@@ -8,8 +8,8 @@ export const movies = [
     duration: '2h 15m',
     ageRating: 'PG-13',
     genre: ['Action', 'Sci-Fi'],
-    heroImage: '/hero_neon_pulse_1775796447861.png',
-    posterImage: '/hero_neon_pulse_1775796447861.png', 
+    heroImage: 'hero_neon_pulse_1775796447861.png',
+    posterImage: 'hero_neon_pulse_1775796447861.png', 
     youtubeId: 'dQw4w9WgXcQ', // Using generic popular video for demo (Rick Roll/Trailer placeholder)
     cast: ['Julian Thorne', 'Elena Vance', 'Kaelen Mori', 'Sloan Sterling'],
     director: 'Marcus Vane',
@@ -24,8 +24,8 @@ export const movies = [
     duration: '2h 15m',
     ageRating: 'PG-13',
     genre: ['Thriller', 'Sci-Fi'],
-    heroImage: '/hero_neon_horizon_1775796568793.png',
-    posterImage: '/hero_neon_horizon_1775796568793.png',
+    heroImage: 'hero_neon_horizon_1775796568793.png',
+    posterImage: 'hero_neon_horizon_1775796568793.png',
     youtubeId: 'jNQXAC9IVRw', // Me at the zoo (another classic) or can use real trailer IDs
     cast: ['Julian Thorne', 'Elena Vance', 'Kaelen Mori', 'Sloan Sterling'],
     director: 'Marcus Vane',
@@ -37,7 +37,7 @@ export const movies = [
     description: 'In a world where light is the only currency, one survivor must navigate the shadows of a collapsing empire to save what remains of humanity.',
     year: 2023,
     genre: ['Action', 'Adventure'],
-    posterImage: '/poster_action_1775796584337.png',
+    posterImage: 'poster_action_1775796584337.png',
     youtubeId: 'tO01J-M3g0U'
   },
   {
@@ -46,7 +46,7 @@ export const movies = [
     description: 'A covert operative uncovers a conspiracy.',
     year: 2023,
     genre: ['Thriller'],
-    posterImage: '/poster_scifi_1775796602678.png',
+    posterImage: 'poster_scifi_1775796602678.png',
     youtubeId: 'eY52Zsg-KVI'
   },
   {
@@ -55,7 +55,7 @@ export const movies = [
     description: 'A detective explores supernatural occurrences in the neon-lit streets.',
     year: 2022,
     genre: ['Drama', 'Sci-Fi'],
-    posterImage: '/poster_action_1775796584337.png',
+    posterImage: 'poster_action_1775796584337.png',
     youtubeId: 'dQw4w9WgXcQ'
   },
   {
@@ -64,7 +64,7 @@ export const movies = [
     description: 'An AI researcher connects their brain to the global network.',
     year: 2023,
     genre: ['Sci-Fi'],
-    posterImage: '/poster_scifi_1775796602678.png',
+    posterImage: 'poster_scifi_1775796602678.png',
     youtubeId: 'jNQXAC9IVRw'
   },
   {
@@ -73,7 +73,7 @@ export const movies = [
     description: 'Survival in a harsh, post-apocalyptic wasteland where everything is reflected.',
     year: 2021,
     genre: ['Sci-Fi', 'Action'],
-    posterImage: '/hero_neon_pulse_1775796447861.png',
+    posterImage: 'hero_neon_pulse_1775796447861.png',
     youtubeId: 'tO01J-M3g0U'
   },
   {
@@ -82,7 +82,7 @@ export const movies = [
     description: 'A journey back to Earth\'s origins.',
     year: 2024,
     genre: ['Fantasy', 'Adventure'],
-    posterImage: '/poster_action_1775796584337.png',
+    posterImage: 'poster_action_1775796584337.png',
     youtubeId: 'eY52Zsg-KVI'
   }
 ];
